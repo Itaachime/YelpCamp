@@ -2,7 +2,7 @@
 YelpCamp is a project that was completed as a part of [Colt Steele's Web Development Bootcamp course (Udemy)](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview).
 
 ## Description
-YelpCamp is based on the popular Yelp.com , the difference being it focus on the campgrounds that any host/owner can post for the users across the globe to check and review.
+YelpCamp is based on the popular Yelp.com , the difference being it focuses on the campgrounds that any host/owner can post for the users across the globe to check and review.
 
 The application is hosted on heroku and can be accessed at the below web address  
 https://yelpcamp-vijay.herokuapp.com/
