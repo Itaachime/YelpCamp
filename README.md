@@ -59,7 +59,7 @@ Changing background that fades away making space for a new background to show.
 ## Deployment:
 
 - In the app.js use - > mongoose.connect('mongodb://localhost/yelp_camp'); (if mongodb is running on localhost).  
-- I have used -> mongoose.connect(process.env.DATABASEURL); and have set DATABASEURL as environment variable in my heroku to maintain secracy about the ip.  
+- I have used -> mongoose.connect(process.env.DATABASEURL); and have set DATABASEURL as environment variable in my heroku to maintain security.
 
 
 
